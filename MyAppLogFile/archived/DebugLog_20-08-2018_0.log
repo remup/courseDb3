@@ -1,0 +1,5 @@
+20-08-2018 14:18:04.840 [main] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 13248 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+20-08-2018 14:18:04.850 [main] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+20-08-2018 14:18:04.851 [main] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+20-08-2018 14:18:09.588 [main] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 4.987 seconds (JVM running for 5.453)
+20-08-2018 14:18:17.587 [http-nio-8080-exec-1] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework

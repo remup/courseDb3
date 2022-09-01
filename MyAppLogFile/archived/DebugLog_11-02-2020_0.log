@@ -1,0 +1,60 @@
+07-01-2019 19:23:26.751 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 15184 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+07-01-2019 19:23:26.801 [restartedMain] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+07-01-2019 19:23:26.802 [restartedMain] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+07-01-2019 19:23:35.968 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 19.877 seconds (JVM running for 21.026)
+07-01-2019 19:25:53.910 [http-nio-8080-exec-2] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+07-01-2019 19:26:44.056 [http-nio-8080-exec-4] ERROR i.j.s.topic.TopicController.getTopic - Topic with this id-nine    not found
+07-01-2019 19:31:31.141 [http-nio-8080-exec-1] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id eightdetails eight ECM filenet
+07-01-2019 19:35:06.526 [http-nio-8080-exec-6] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+07-01-2019 19:35:26.044 [http-nio-8080-exec-7] ERROR i.j.s.topic.TopicController.getTopic - Topic with this id-nine    not found
+07-01-2019 19:37:50.268 [http-nio-8080-exec-3] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id onedetails one core java Basic Learning
+07-01-2019 19:40:47.723 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 15184 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+07-01-2019 19:40:47.723 [restartedMain] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+07-01-2019 19:40:47.724 [restartedMain] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+07-01-2019 19:40:48.898 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 1.227 seconds (JVM running for 1053.954)
+07-01-2019 19:40:53.331 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - =================Get all topics start=====================
+07-01-2019 19:40:53.335 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.336 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - core java   one   Basic Learning
+07-01-2019 19:40:53.336 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.336 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - springssss   two   spring Framework
+07-01-2019 19:40:53.338 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.338 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - network   three   networking Framework
+07-01-2019 19:40:53.339 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.339 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - angular   four   angular Framework
+07-01-2019 19:40:53.340 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.340 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - typescript   five   typscript Framework
+07-01-2019 19:40:53.340 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.340 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - cloudssssnesss   six   VMWare
+07-01-2019 19:40:53.341 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.341 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - BPM   seven   Bizflow
+07-01-2019 19:40:53.342 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.343 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - ECM   eight   filenet
+07-01-2019 19:40:53.343 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:40:53.343 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - core java   nine   Basic Learning
+07-01-2019 19:40:53.343 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - =================Get all topics End=====================
+07-01-2019 19:40:53.344 [main] DEBUG i.j.s.client.TopicClient.deleteTopic - =================delete  topic by ID Start=====================
+07-01-2019 19:40:53.361 [main] DEBUG i.j.s.client.TopicClient.deleteTopic - =================delete  topic by ID End=====================
+07-01-2019 19:41:33.809 [http-nio-8080-exec-6] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+07-01-2019 19:42:18.417 [http-nio-8080-exec-5] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id onedetails one core java Basic Learning
+07-01-2019 19:46:19.242 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - =================Get all topics start=====================
+07-01-2019 19:46:19.244 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.244 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - core java   one   Basic Learning
+07-01-2019 19:46:19.244 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.244 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - springssss   two   spring Framework
+07-01-2019 19:46:19.244 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.244 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - network   three   networking Framework
+07-01-2019 19:46:19.245 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.245 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - angular   four   angular Framework
+07-01-2019 19:46:19.245 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.245 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - typescript   five   typscript Framework
+07-01-2019 19:46:19.245 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.245 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - cloudssssnesss   six   VMWare
+07-01-2019 19:46:19.246 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.246 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - BPM   seven   Bizflow
+07-01-2019 19:46:19.246 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.246 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - ECM   eight   filenet
+07-01-2019 19:46:19.246 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+07-01-2019 19:46:19.247 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - java   nine   Basicssss Learning
+07-01-2019 19:46:19.247 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - =================Get all topics End=====================
+07-01-2019 19:46:19.247 [main] DEBUG i.j.s.client.TopicClient.deleteTopic - =================delete  topic by ID Start=====================
+07-01-2019 19:46:19.256 [main] DEBUG i.j.s.client.TopicClient.deleteTopic - =================delete  topic by ID End=====================

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} %magenta([%thread]) %highlight(%-5level) %logger{36}.%M - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <root level="info">
+        <appender-ref ref="STDOUT" />
+    </root>
+    
+ 
+	<appender name="DEBUG-TO-FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+    	<file>MyAppLogFile/DebugLog.log</file>
+
+   		 <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+      		<Pattern>
+      				  %d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
+     		 </Pattern>
+   		 </encoder>
+
+   		 <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+     	 	<fileNamePattern>
+       	 		MyAppLogFile/archived/DebugLog_%d{dd-MM-yyyy}_%i.log
+      		</fileNamePattern>
+     		 <maxFileSize>10MB</maxFileSize>
+    	  	<maxHistory>10</maxHistory>
+      		<totalSizeCap>100MB</totalSizeCap>
+    	</rollingPolicy>
+
+</appender>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<appender name="ERROR-TO-FILE" class="ch.qos.logback.core.FileAppender">
+    	<file>MyAppLogFile/ErrorLog.log</file>
+    		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+        		<Pattern>
+            		%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
+        		</Pattern>
+    		</encoder>
+	</appender>
+	
+	 <logger name="io.javabrains.springbootstarter" additivity="false" level="debug">
+   		 <appender-ref ref="DEBUG-TO-FILE" />
+   		 <appender-ref ref="STDOUT" />
+	</logger>
+	
+	<logger name="io.javabrains.springbootstarter.topic" additivity="false" level="debug">
+   		 <appender-ref ref="DEBUG-TO-FILE" />
+   		 <appender-ref ref="STDOUT" />
+	</logger>
+	
+	<logger name="io.javabrains.springbootstarter.ExceptionHandling" additivity="false" level="debug">
+   		 <appender-ref ref="DEBUG-TO-FILE" />
+   		 <appender-ref ref="STDOUT" />
+	</logger>
+	
+	
+	<root level="error">
+   		 <appender-ref ref="ERROR-TO-FILE" />
+	</root>
+
+</configuration>

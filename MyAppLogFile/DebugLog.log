@@ -1,0 +1,9 @@
+19-03-2022 17:37:20.353 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on IMCDBCP28-MSL2 with PID 16632 (started by RemyaP in C:\Users\remyap\OneDrive - CitiusTech\Documents\PracProjRemya\courseDB)
+19-03-2022 17:37:20.365 [restartedMain] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+19-03-2022 17:37:20.366 [restartedMain] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+19-03-2022 17:39:09.136 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on IMCDBCP28-MSL2 with PID 29436 (started by RemyaP in C:\Users\remyap\OneDrive - CitiusTech\Documents\PracProjRemya\courseDB)
+19-03-2022 17:39:09.141 [restartedMain] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+19-03-2022 17:39:09.142 [restartedMain] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+19-03-2022 17:43:22.364 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on IMCDBCP28-MSL2 with PID 30640 (started by RemyaP in C:\Users\remyap\OneDrive - CitiusTech\Documents\PracProjRemya\courseDB)
+19-03-2022 17:43:22.367 [restartedMain] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+19-03-2022 17:43:22.367 [restartedMain] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default

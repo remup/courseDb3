@@ -1,0 +1,28 @@
+17-08-2018 21:05:04.060 [main] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 15068 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+17-08-2018 21:05:04.063 [main] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+17-08-2018 21:05:04.063 [main] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+17-08-2018 21:05:07.934 [main] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 4.074 seconds (JVM running for 4.499)
+17-08-2018 21:06:44.421 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - =================Get all topics start=====================
+17-08-2018 21:06:44.424 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.424 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - core java   one   Basic Learning
+17-08-2018 21:06:44.424 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.424 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - springssss   two   spring Framework
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - network   three   networking Framework
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - angular   four   angular Framework
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - typescript   five   typscript Framework
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.425 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - cloudssssnesss   six   VMWare
+17-08-2018 21:06:44.426 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.426 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - BPM   seven   Bizflow
+17-08-2018 21:06:44.426 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - Topic List
+17-08-2018 21:06:44.426 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - ECM   eight   filenet
+17-08-2018 21:06:44.426 [main] DEBUG i.j.s.client.TopicClient.getClientTopics - =================Get all topics End=====================
+17-08-2018 21:12:36.617 [http-nio-8080-exec-3] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+17-08-2018 21:14:59.449 [main] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 14780 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+17-08-2018 21:14:59.451 [main] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+17-08-2018 21:14:59.452 [main] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+17-08-2018 21:15:03.501 [main] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 4.272 seconds (JVM running for 4.746)
+17-08-2018 21:15:10.425 [http-nio-8080-exec-1] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework

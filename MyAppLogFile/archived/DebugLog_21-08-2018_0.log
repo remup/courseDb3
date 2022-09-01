@@ -1,0 +1,12 @@
+21-08-2018 14:33:41.300 [main] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 6968 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+21-08-2018 14:33:41.309 [main] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+21-08-2018 14:33:41.309 [main] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+21-08-2018 14:33:45.791 [main] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 4.709 seconds (JVM running for 5.164)
+21-08-2018 14:33:52.690 [http-nio-8080-exec-1] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+21-08-2018 14:39:25.618 [http-nio-8080-exec-3] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+21-08-2018 14:40:21.706 [http-nio-8080-exec-4] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
+21-08-2018 14:41:25.979 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarting - Starting CourseDBApplication on RemyaP-MSD with PID 7972 (C:\Users\remyap\Documents\ECLIPSE\courseDB\target\classes started by RemyaP in C:\Users\remyap\Documents\ECLIPSE\courseDB)
+21-08-2018 14:41:25.983 [restartedMain] DEBUG i.j.s.CourseDBApplication.logStarting - Running with Spring Boot v1.5.15.RELEASE, Spring v4.3.18.RELEASE
+21-08-2018 14:41:25.983 [restartedMain] INFO  i.j.s.CourseDBApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+21-08-2018 14:41:30.757 [restartedMain] INFO  i.j.s.CourseDBApplication.logStarted - Started CourseDBApplication in 5.015 seconds (JVM running for 5.545)
+21-08-2018 14:41:31.330 [http-nio-8080-exec-2] DEBUG i.j.s.topic.TopicController.getTopic - data from DB forTopic Id twodetails two springssss spring Framework
